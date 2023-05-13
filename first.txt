@@ -1,5 +1,6 @@
 hello git
 git  add
+git remote add origin https://github.com/aoka2/intro_git : git ハブ push 元の登録
 git push -u origin master 
 git commit
 git rm
