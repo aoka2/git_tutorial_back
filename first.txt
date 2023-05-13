@@ -1,5 +1,6 @@
 hello git
-git  add 
+git  add
+git push -u origin master 
 git commit
 git rm
 git status
